@@ -30,7 +30,6 @@ int all_Count = 0;
 int length = 5;
 
 //ファイルの内容を読み込む関数
-gg Gin san tanakasan
 void load_data()
 {
     FILE* p_Fp = fopen("items.csv", "r");
