@@ -446,7 +446,7 @@ int main(void)
             continue;
         }
 
-        //‚½‚Ê‚«
+
     }
 
 }
