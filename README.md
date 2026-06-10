@@ -4,3 +4,4 @@ tintin
 ohayou
 gg
 zettaitasukeru!!
+harai
