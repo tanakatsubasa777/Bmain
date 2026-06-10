@@ -9,7 +9,7 @@
 #define ANSI_RESET "\x1b[0m"            //文字色リセット用
 #define min_value 110                   //商品の最低価格(110円)
 #define TYPES 5                         //構造体配列の要素数
-#define MAX 100                         //文字列用配列の要素数
+#define MAX 120                         //文字列用配列の要素数
 
 typedef struct {
     char name[100]; // 商品名 (MAX 10 バイト + null) [4] 
@@ -446,7 +446,7 @@ int main(void)
             continue;
         }
 
-
+        //たぬき
     }
 
 }
